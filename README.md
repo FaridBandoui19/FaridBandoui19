@@ -8,7 +8,7 @@ Hello, I'm **Farid Bandoui** — a Data Scientist in training with 10+ years of 
 📍 Ottawa, ON, Canada  
 🌐 Trilingual: French | English | Arabic
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faridbandoui-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/faridbandoui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/farid-bandoui)
 [![Email](https://img.shields.io/badge/Email-farid.bandoui%40email.com-red?style=flat-square&logo=gmail)](mailto:farid.bandoui@email.com)
 
 ---
@@ -119,7 +119,7 @@ USTHB – Algiers, Algeria | 2008 – 2010
 
 I'm actively seeking opportunities in **Healthcare Data Analytics**, **Pharmaceutical Data Science**, or **Business Intelligence** roles where I can leverage both my industry experience and technical skills.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/faridbandoui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farid-bandoui)
 
 ---
 
