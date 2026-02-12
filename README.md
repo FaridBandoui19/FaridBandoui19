@@ -50,14 +50,39 @@ Now, I'm completing my **Applied Data Science Diploma** at La Cité College (gra
 
 ## 📊 Featured Projects
 
-| Project | Domain | Tools | Description |
-|---------|--------|-------|-------------|
-| 🔬 [SMS Spam Classification](#) | NLP / Machine Learning | Python, TF-IDF, BERT | Comparison of traditional ML vs deep learning approaches for text classification with precision, recall, and F1-score evaluation |
-| 💳 [Credit Default Risk Analysis](#) | Finance / Data Quality | Python, Pandera | Data cleaning, anomaly detection, and schema validation for credit risk assessment |
-| 🦠 [COVID-19 Big Data Analysis](#) | Healthcare / Big Data | Apache Spark, PySpark | Large-scale data processing and visualization of pandemic trends |
-| 🗳️ [Canadian Electoral Analysis](#) | Statistics | Python, Correspondence Analysis | Multivariate statistical analysis of Canadian voting patterns |
+### 🛠️ [CSV Data Cleaning Tool (Java)](https://github.com/FaridBandoui19/Projet_JAVA_UA3)
+**Domain:** Data Engineering / Data Quality  
+**Technologies:** Java, OOP, SOLID principles
 
-> *Links will be added as repositories are published*
+Java application for automated CSV data cleaning and validation:
+- Read and parse CSV files line-by-line
+- Detect and replace missing values
+- Standardize text formats (uppercase normalization)
+- Export cleaned datasets
+- Implements SOLID principles (interfaces, dependency injection, separation of concerns)
+
+**Key Features:** File I/O operations, data validation, console visualization, modular architecture
+
+---
+
+### 💳 [Credit Card Default Risk Analysis](https://github.com/FaridBandoui19/credit-card-default-analysis)
+**Domain:** Finance / Data Science / Machine Learning  
+**Technologies:** Python, Pandas, Scikit-learn, PCA, K-means
+
+Comprehensive exploratory data analysis of 30,000 credit card clients to predict payment default risk:
+- **Data Cleaning:** Removed duplicates, corrected anomalies, engineered features
+- **Multivariate Analysis:** PCA, CA (Correspondence Analysis), MCA (Multiple Correspondence Analysis)
+- **Clustering:** K-means segmentation into 3 risk profiles (Low/Medium/High)
+- **Key Findings:** Payment history (TOTAL_DELAYS) is the strongest predictor with 0.40 correlation to default
+
+**Business Impact:** Identified 3 distinct customer segments enabling targeted risk mitigation strategies
+
+**Methods Applied:**
+- ✅ Principal Component Analysis (PCA)
+- ✅ Correspondence Analysis (CA/AFC)
+- ✅ Multiple Correspondence Analysis (MCA)
+- ✅ K-means Clustering
+- ✅ Feature Engineering
 
 ---
 
@@ -99,18 +124,3 @@ I'm actively seeking opportunities in **Healthcare Data Analytics**, **Pharmaceu
 ---
 
 *"Transforming healthcare data into actionable insights"* 🔬📊
-
-<!--
-**FaridBandoui19/FaridBandoui19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
